@@ -1,2 +1,2 @@
-# Dataset-Multi-dimensional-Analysis-Based-on-SDI-Assessment-and-Driving-Mechanism-in-the-BTH-Region-
+# Dataset-Multi-dimensional-Analysis-Based-on-SDI-Assessment-and-Driving-Mechanism-in-the-BTH-Region
 data_environment.csv is the calculated value in the environmental aspect, data_VARoutput.csv is the prediction result, and data_GTWRoutput.csv is the regression result of GTWR. Youdaoplaceholder0 in the article.csv is the value of GDP, ESV, HWB, six drivers and SDI, and data_summary.csv is the aggregated data.
