@@ -1,0 +1,26 @@
+{
+  "global_avg_r2": 0.78,
+  "min_r2": 0.6195,
+  "max_r2": 0.9395,
+  "high_accuracy_attributes": {
+    "TIV": 0.9005,
+    "ERV": 0.8869
+  },
+  "low_accuracy_examples": {
+    "Shijiazhuang-ERV": 0.8695,
+    "Handan-AW": 0.6395,
+    "Shijiazhuang-LFE": 0.6195
+  },
+  "global_metrics_comparison": {
+    "VAR": {
+      "r2": 0.78,
+      "mae": 0.1556,
+      "rmse": 0.1939
+    },
+    "LSTM": {
+      "r2": 0.7196,
+      "mae": 0.1749,
+      "rmse": 0.2224
+    }
+  }
+}
